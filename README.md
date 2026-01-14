@@ -71,18 +71,3 @@ The RL dataset integrates multiple reasoning-oriented sources to ensure broad ge
 
 You can use here:
 [RL Dataset](https://www.kaggle.com/datasets/sangminlee09/small-reasoning-model-rl-dataset)
-
-## Repository Structure
-```
-├─ configs/       
-├─ src/            
-│  ├─ data/ 
-│  ├─ models/      
-│  ├─ reward/      
-│  ├─ rl/          
-│  ├─ sft/         
-│  └─ rl/          
-├─ notebooks/     
-├─ assets/        
-└─ README.md
-```
